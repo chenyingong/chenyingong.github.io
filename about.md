@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Education
 
-  * Mphil, Operations Management, HKUST Business School, Hong Kong, 2022-present
+  * Ph.D. Student, Operations Management, HKUST Business School, Hong Kong, 2022-present
 
   * M.A., Economics, Peking University HSBC Business School, Shenzhen, 2019-2022
 

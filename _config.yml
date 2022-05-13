@@ -1,6 +1,6 @@
-title: Chen Yin Gong
+title: CY'Log
 author:
-  name:
+  name: Chen Yin Gong
   email: cygong1226@pku.edu.cn
 description: > # this means to ignore newlines until "show_excerpts:"
 
@@ -51,7 +51,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - about.md
-- posts.md
 - research.md
 
 # Build settings
@@ -60,3 +59,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jemoji

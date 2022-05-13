@@ -7,4 +7,6 @@
 #
 layout: home
 ---
-Welcom to my homepage! I’m documenting my learning notes in this blog.
+**<font size=5>:wave: Welcome to CY'Log</font>**
+
+Hi, this is Chen Yin. I’m documenting my learning notes in this blog.

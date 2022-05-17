@@ -18,6 +18,6 @@ permalink: /about/
 
 ### Research Interests
 
-  * Yield Management
+  * Revenue Management
 
   * Reinforcement Learning Algorithms

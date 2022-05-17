@@ -6,4 +6,6 @@ permalink: /research/
 
 ### Reinforcement Learning Applications in Finance
 
-// * Xianhua Peng, Chen Yin Gong, Xue Dong He. Financial Index Tracking Methods Based on Reinforcement Learning, Submitted, 2022.
+{% comment %} 
+    * Xianhua Peng, Chen Yin Gong, Xue Dong He. Financial Index Tracking Methods Based on Reinforcement Learning, Submitted, 2022.
+{% endcomment %} 

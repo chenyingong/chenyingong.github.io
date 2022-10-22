@@ -18,6 +18,4 @@ permalink: /about/
 
 ### Research Interests
 
-  * Revenue Management
-
-  * Reinforcement Learning Algorithms
+  * Dynamic Programming & Reinforcement Learning in Operations Management

@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-### Reinforcement Learning Applications in Finance
+### Preprints
 
-{% comment %} 
-    * Xianhua Peng, Chenyin Gong, Xuedong He. Financial Index Tracking Methods Based on Reinforcement Learning, Submitted, 2022.
-{% endcomment %} 
+* Xianhua Peng, Chenyin Gong, Xue Dong He, ["Financial Index Tracking Methods Based on Reinforcement Learning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4532072), 2023.

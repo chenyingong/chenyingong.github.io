@@ -19,5 +19,3 @@ permalink: /about/
   * Dynamic Programming
 
   * Reinforcement Learning
-
-  * Mechanism Design

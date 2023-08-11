@@ -25,4 +25,4 @@ Office:
     Room LSK5017, HKUST, Clear Water Bay, Kowloon, Hong Kong
 
 Email: 
-    [chenyin.gong@connect.ust.hk](chenyin.gong@connect.ust.hk)
+    [chenyin.gong@connect.ust.hk](mailto:chenyin.gong@connect.ust.hk)

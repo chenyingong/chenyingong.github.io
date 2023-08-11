@@ -9,7 +9,7 @@ layout: home
 ---
 **<font size=5>:wave: Welcome to Chenyin's homepage!</font>**
 
-I am currently a Ph.D. student in the department of ISOM at HKUST. I obtained my master's degree in Economics from Peking University in 2022. I received my bachelor's degree in Economics from Renmin University of China in 2019.
+I am currently a Ph.D. student in [the department of ISOM](https://isom.hkust.edu.hk/) at HKUST. I obtained my master's degree in Economics from Peking University in 2022. I received my bachelor's degree in Economics from Renmin University of China in 2019.
 
 **<font size=4>Research Interests</font>**
 

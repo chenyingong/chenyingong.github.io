@@ -11,7 +11,7 @@ layout: home
 
 I am currently a Ph.D. student in the department of ISOM at HKUST. I obtained my master's degree in Economics from Peking University in 2022. I received my bachelor's degree in Economics from Renmin University of China in 2019.
 
-**<font size=3>Research Interests</font>**
+**<font size=4>Research Interests</font>**
 
 My current research interests lie in theory and modeling of operations management problems within the frameworks of:
 
@@ -19,10 +19,10 @@ My current research interests lie in theory and modeling of operations managemen
 
   * Reinforcement Learning
 
-**<font size=3>Contact Information</font>**
+**<font size=4>Contact Information</font>**
 
 Office:
     Room LSK5017, HKUST, Clear Water Bay, Kowloon, Hong Kong
 
 Email: 
-    chenyin.gong@connect.ust.hk
+    [chenyin.gong@connect.ust.hk](chenyin.gong@connect.ust.hk)

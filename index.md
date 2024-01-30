@@ -13,7 +13,7 @@ I am currently a Ph.D. student in [the department of ISOM](https://isom.hkust.ed
 
 **<font size=4>Research Interests</font>**
 
-Methodology/Application: Stochastic Dynamic Programming, Applied Probability, Reinforcement Learning
+Methodology/Application: Stochastic Dynamic Programming, Sequential Decision Making, Applied Probability, Reinforcement Learning
 
 **<font size=4>Contact Information</font>**
 

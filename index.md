@@ -13,12 +13,9 @@ I am currently a Ph.D. student in [the department of ISOM](https://isom.hkust.ed
 
 **<font size=4>Research Interests</font>**
 
-Methodology/Application: Stochastic Dynamic Programming, Sequential Decision Making, Applied Probability, Reinforcement Learning
+Methodology/Application: Sequential Decision Making, Optimal Stopping, Multi-Armed Bandits, Stochastic Dynamic Programming
 
 **<font size=4>Contact Information</font>**
-
-Office:
-    Room LSK5017, HKUST, Clear Water Bay, Kowloon, Hong Kong
 
 Email: 
     [chenyin.gong@connect.ust.hk](mailto:chenyin.gong@connect.ust.hk)

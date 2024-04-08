@@ -9,7 +9,14 @@ layout: home
 ---
 **<font size=5>:wave: Welcome!</font>**
 
-I am currently a Ph.D. candidate in the [Department of ISOM](https://isom.hkust.edu.hk/) at HKUST under the supervision of Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli). I obtained my master's degree in Economics from Peking University in 2022. I received my bachelor's degree in Economics from Renmin University of China in 2019.
+Ph.D. Candidate in Operations Management, HKUST, 2022-Present
+* Supervisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli)
+ 
+M.A. in Economics, Peking University, 2022
+
+B.A. in Economics, Renmin University of China, 2019
+
+Exchange Study, University of California, Davis, 2017-2018
 
 **<font size=4>Research Interests</font>**
 
@@ -17,5 +24,4 @@ Methodology/Application: Sequential Decision Making, Stochastic Dynamic Programm
 
 **<font size=4>Contact Information</font>**
 
-Email: 
-    [chenyin.gong@connect.ust.hk](mailto:chenyin.gong@connect.ust.hk)
+Email: [chenyin.gong@connect.ust.hk](mailto:chenyin.gong@connect.ust.hk)

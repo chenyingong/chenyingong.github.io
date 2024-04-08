@@ -6,4 +6,8 @@ permalink: /research/
 
 ### Working Papers
 
-* [Reinforcement Learning for Financial Index Tracking](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4532072), with Xianhua Peng and Xue Dong He.
+* [A Rolling Recruitment Process under Applicant Stochastic Departures](https://ssrn.com/abstract=4787415), with Qing Li
+  * Submitted
+
+
+* [Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He

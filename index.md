@@ -13,7 +13,7 @@ I am currently a Ph.D. student in [the department of ISOM](https://isom.hkust.ed
 
 **<font size=4>Research Interests</font>**
 
-Methodology/Application: Sequential Decision Making, Optimal Stopping, Multi-Armed Bandits, Stochastic Dynamic Programming
+Methodology/Application: Sequential Decision Making, Stochastic Dynamic Programming, Optimal Stopping, Multi-Armed Bandits
 
 **<font size=4>Contact Information</font>**
 

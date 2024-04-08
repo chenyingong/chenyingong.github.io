@@ -3,11 +3,11 @@ layout: page
 title: Research
 permalink: /research/
 ---
+**<font size=4>Working Papers</font>**
 
-### Working Papers
-
-* [A Rolling Recruitment Process under Applicant Stochastic Departures](https://ssrn.com/abstract=4787415), with Qing Li
+[A Rolling Recruitment Process under Applicant Stochastic Departures](https://ssrn.com/abstract=4787415), with Qing Li
   * Submitted
 <br />
 <br />
-* [Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He
+
+[Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He

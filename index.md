@@ -15,6 +15,7 @@ Ph.D. Candidate in Operations Management, HKUST, 2022-Present
 * Supervisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli)
  
 M.A. in Economics, Peking University, 2022
+* Supervisor: Prof. [Xianhua Peng](https://english.phbs.pku.edu.cn/2018/fulltime_0831/104.html)
 
 B.A. in Economics, Renmin University of China, 2019
 

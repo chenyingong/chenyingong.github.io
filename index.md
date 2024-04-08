@@ -9,6 +9,8 @@ layout: home
 ---
 **<font size=5>:wave: Welcome!</font>**
 
+**<font size=4>Education</font>**
+
 Ph.D. Candidate in Operations Management, HKUST, 2022-Present
 * Supervisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli)
  

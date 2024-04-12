@@ -11,7 +11,7 @@ layout: home
 
 **<font size=4>Education</font>**
 
-Ph.D. Candidate in Operations Management, HKUST, 2022-Present
+Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present
 * Supervisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli)
  
 M.A. in Economics, Peking University, 2022

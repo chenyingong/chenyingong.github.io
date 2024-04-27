@@ -11,13 +11,13 @@ layout: home
 
 **<font size=4>Education</font>**
 
-Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present
+* Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present
  
-M.A. in Economics, Peking University, 2022
+* M.A. in Economics, Peking University, 2022
 
-B.A. in Economics, Renmin University of China, 2019
+* B.A. in Economics, Renmin University of China, 2019
 
-Exchange Study, University of California, Davis, 2017-2018
+* Exchange Study, University of California, Davis, 2017-2018
 
 **<font size=4>Research Interests</font>**
 

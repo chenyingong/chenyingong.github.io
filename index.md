@@ -12,10 +12,8 @@ layout: home
 **<font size=4>Education</font>**
 
 Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present
-* Supervisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli)
  
 M.A. in Economics, Peking University, 2022
-* Supervisor: Prof. [Xianhua Peng](https://english.phbs.pku.edu.cn/2018/fulltime_0831/104.html)
 
 B.A. in Economics, Renmin University of China, 2019
 
@@ -23,7 +21,7 @@ Exchange Study, University of California, Davis, 2017-2018
 
 **<font size=4>Research Interests</font>**
 
-Methodology/Application: Sequential Decision Making, Stochastic Dynamic Programming, Optimal Stopping, Multi-Armed Bandits
+Methodology/Application: Sequential Decision Making, Multi-Armed Bandits, Stochastic Dynamic Programming
 
 **<font size=4>Contact Information</font>**
 

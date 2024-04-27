@@ -21,8 +21,8 @@ layout: home
 
 **<font size=4>Research Interests</font>**
 
-Methodology/Application: Sequential Decision Making, Multi-Armed Bandits, Stochastic Dynamic Programming
+* Multi-Armed Bandits, Stochastic Dynamic Programming
 
 **<font size=4>Contact Information</font>**
 
-Email: [chenyin.gong@connect.ust.hk](mailto:chenyin.gong@connect.ust.hk)
+* Email: [chenyin.gong@connect.ust.hk](mailto:chenyin.gong@connect.ust.hk)

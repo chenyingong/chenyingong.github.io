@@ -21,7 +21,7 @@ layout: home
 
 **<font size=4>Research Interests</font>**
 
-* Multi-Armed Bandits, Stochastic Dynamic Programming
+* Contextual Bandits, Stochastic Dynamic Programming
 
 **<font size=4>Contact Information</font>**
 

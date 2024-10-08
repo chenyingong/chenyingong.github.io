@@ -21,7 +21,7 @@ layout: home
 
 **<font size=4>Research Interests/Methodologies</font>**
 
-* Ranking and Selection with OM applications, Multiple Testing/FDR, Stochastic Dynamic Programming, Multi-armed Bandits
+* Ranking and Selection, Multiple Testing/FDR, Stochastic Dynamic Programming, Multi-armed Bandits
 
 **<font size=4>Contact Information</font>**
 

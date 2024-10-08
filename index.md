@@ -19,9 +19,9 @@ layout: home
 
 * Exchange Study, University of California, Davis, 2017-2018
 
-**<font size=4>Research Interests</font>**
+**<font size=4>Research Interests/Methodologies</font>**
 
-* Contextual Bandits, Stochastic Dynamic Programming
+* Ranking and Selection with OM applications, Multiple Testing/FDR, Stochastic Dynamic Programming, Multi-armed Bandits
 
 **<font size=4>Contact Information</font>**
 

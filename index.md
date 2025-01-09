@@ -21,7 +21,7 @@ layout: home
 
 **<font size=4>Research Interests/Methodologies</font>**
 
-* Multiple Testing, Dynamic Programming, Multi-armed Bandits
+* Multiple Testing, Empirical Bayes, Dynamic Programming
 
 **<font size=4>Contact Information</font>**
 

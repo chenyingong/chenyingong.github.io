@@ -19,9 +19,11 @@ layout: home
 
 * Exchange Study, University of California, Davis, 2017-2018
 
-**<font size=4>Research Interests/Methodologies</font>**
+**<font size=4>Research Interests</font>**
 
-* Multiple Testing, Empirical Bayes, Dynamic Programming
+* Applications: Ranking and Selection, Screening and Testing, Sequential Decision Making in Operations Research/Management Context
+
+* Methodologies: Empirical Bayes, Dynamic Programming, Multiple Testing
 
 **<font size=4>Contact Information</font>**
 

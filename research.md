@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-**<font size=4>Working Papers</font>**
+**<font size=4>Working Papers/Under Revision</font> <font size=3>(reverse chronological order of last update)</font>**
 
 * [A Rolling Recruitment Process under Applicant Stochastic Departures](https://ssrn.com/abstract=4787415), with Qing Li
   * Major Revision in *Manufacturing & Service Operations Management*

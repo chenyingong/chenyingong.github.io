@@ -16,8 +16,7 @@ layout: home
 * M.A. in Economics, Peking University, 2022
 
 * B.A. in Economics, Renmin University of China, 2019
-
-* Exchange Study, University of California, Davis, 2017-2018
+  * Exchange Study, University of California, Davis, 2017-2018
 
 **<font size=4>Research Interests</font>**
 

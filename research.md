@@ -7,7 +7,6 @@ permalink: /research/
 **<font size=4>Working Papers</font>**
 
 * [A Rolling Recruitment Process under Applicant Stochastic Departures](https://ssrn.com/abstract=4787415), with Qing Li
-  * Major Revision in *Manufacturing & Service Operations Management*
 <br />
 <br />
 * [Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He

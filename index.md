@@ -22,8 +22,8 @@ layout: home
 
 * Applications: Ranking and Selection, Screening and Testing, Sequential Decision Making in Operations Research/Management Context
 
-* Methodologies: Empirical Bayes, Dynamic Programming, Multiple Testing
+* Methodologies: Dynamic Programming, Empirical Bayes, Multiple Testing
 
 **<font size=4>Contact Information</font>**
 
-* Email: [chenyin.gong@connect.ust.hk](mailto:chenyin.gong@connect.ust.hk)
+* Email: [cgongad@connect.ust.hk](mailto:chenyin.gong@connect.ust.hk)

@@ -11,6 +11,8 @@ permalink: /research/
 <br />
 <br />
 * [Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He
+<br />
+<br />
 
 **<font size=4>Publications</font>**
 

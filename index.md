@@ -20,9 +20,7 @@ layout: home
 
 **<font size=4>Research Interests</font>**
 
-* Applications: Ranking and Selection, Screening and Testing, Sequential Decision Making in Operations Research/Management Context
-
-* Methodologies: Dynamic Programming, Empirical Bayes, Multiple Testing
+* Dynamic Programming, Operations Analytics, Empirical Bayes, Multiple Testing
 
 **<font size=4>Contact Information</font>**
 

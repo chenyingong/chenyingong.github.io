@@ -16,7 +16,7 @@ permalink: /research/
 
 **<font size=4>Publications</font>**
 
-* [A Rolling Recruitment Process under Applicant Stochastic Departures](https://doi.org/10.1287/msom.2024.1456), with Qing Li
+* [A Rolling Recruitment Process Under Applicant Stochastic Departures](https://doi.org/10.1287/msom.2024.1456), with Qing Li
   * *Manufacturing & Service Operations Management*, Forthcoming
 <br />
 <br />

@@ -15,7 +15,7 @@ layout: home
  
 * M.S. in Economics, Peking University, 2022 (Advisor: Prof. [Xianhua Peng](https://english.phbs.pku.edu.cn/2018/fulltime_0831/104.html))
 
-* B.S. in Economics, Renmin University of China, 2019
+* B.A. in Economics, Renmin University of China, 2019
   * Exchange Study, University of California, Davis, 2017-2018
 
 **<font size=4>Research Interests</font>**

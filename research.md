@@ -17,13 +17,14 @@ permalink: /research/
 **<font size=4>Publications</font>**
 
 * [A Rolling Recruitment Process Under Applicant Stochastic Departures](https://doi.org/10.1287/msom.2024.1456), with Qing Li
-  * *Manufacturing & Service Operations Management*, Forthcoming
+  * *Manufacturing & Service Operations Management*, 2026
 <br />
 <br />
 
 **<font size=4>Talks/Conferences</font>**
 
 * The Optimal Selection of a Subset and the Roles of Testing
+  *  POMS-HK 2026, Shenzhen, China
   *  The 17th International Workshop on Behavioral Operations Management, Chengdu, China
   *  Honorable Mention, 2025 POMS International Conference, Danzhou, China
 <br />

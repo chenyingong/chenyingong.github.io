@@ -20,7 +20,7 @@ layout: home
 
 **<font size=4>Research Interests</font>**
 
-* Dynamic Programming, Operations Analytics, Hiring and Testing, Supply Chain Management, Empirical Bayes, Multiple Testing
+* Operations Analytics, Sequential Decision Making, Empirical Bayes, Multiple Testing, Supply Chain Management
 
 **<font size=4>Contact Information</font>**
 
@@ -28,4 +28,4 @@ layout: home
 
 **<font size=4>Curriculum Vitae</font>**
 
-* [CV](https://chenyingong.github.io/assets/CV20260130_Chenyin_Gong.pdf)
+* [CV](https://chenyingong.github.io/assets/CV20260418_Chenyin_Gong.pdf)

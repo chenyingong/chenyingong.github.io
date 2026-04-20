@@ -20,7 +20,7 @@ layout: home
 
 **<font size=4>Research Interests</font>**
 
-* Operations Analytics, Sequential Decision Making, Empirical Bayes, Multiple Testing, Supply Chain Management
+* Operations Analytics, Sequential Decision Making, Empirical Bayes, AI-Assisted Multiple Testing, Supply Chain Management
 
 **<font size=4>Contact Information</font>**
 

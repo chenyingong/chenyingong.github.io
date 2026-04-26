@@ -2,7 +2,7 @@
 
 * * *
 ### Education
-Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present (Advisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
+Ph.D. Candidate in Operations Management, HKUST, 2022-Present (Advisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
 
 M.S. in Economics, Peking University, 2022 (Advisor: [Prof. Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
 
@@ -19,8 +19,7 @@ Chenyin Gong and Qing Li (2026) [A Rolling Recruitment Process Under Applicant S
 
 * * *
 ### Working Papers (reverse chronological order of last update)
-[The Optimal Selection of a Subset and the Roles of Testing](https://ssrn.com/abstract=5328154), with Lilun Du and Qing Li
-- Major Revision at *Management Science*
+[The Optimal Selection of a Subset and the Roles of Testing](https://ssrn.com/abstract=5328154), with Lilun Du and Qing Li. **Major Revision** at *Management Science*
 
 [Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He
 

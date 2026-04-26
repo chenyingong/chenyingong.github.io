@@ -38,7 +38,7 @@ A Rolling Recruitment Process under Applicant Stochastic Departures
 
 * * *
 ### Teaching
-Teaching Assistant (HKUST)
+Teaching Assistant at HKUST
 - 2026 Spring, ISOM 3760, Logistics Management (UG)
 - 2024 Fall, ISOM 5800, Business Modeling (MBA)
 - 2024 Spring, ISOM 3770, Global Supply Chain Management (UG)

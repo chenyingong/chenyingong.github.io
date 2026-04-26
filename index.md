@@ -28,4 +28,4 @@ layout: home
 
 **<font size=4>Curriculum Vitae</font>**
 
-* [CV](https://chenyingong.github.io/assets/CV20260418_Chenyin_Gong.pdf)
+* [CV](https://chenyingong.github.io/assets/CV20260426_Chenyin_Gong.pdf)

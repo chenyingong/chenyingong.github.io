@@ -15,7 +15,7 @@ Operations Analytics, Sequential Decision Making, Empirical Bayes, AI-Assisted M
 
 * * *
 ### Publications
-Chenyin Gong and Qing Li (2026) [``A Rolling Recruitment Process Under Applicant Stochastic Departures.''](https://doi.org/10.1287/msom.2024.1456) *Manufacturing & Service Operations Management*. 28(1):290-307.
+Chenyin Gong and Qing Li (2026) ["A Rolling Recruitment Process Under Applicant Stochastic Departures."](https://doi.org/10.1287/msom.2024.1456) *Manufacturing & Service Operations Management*. 28(1):290-307.
 
 * * *
 ### Working Papers (reverse chronological order of last update)

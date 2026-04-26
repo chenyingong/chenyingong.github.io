@@ -2,9 +2,9 @@
 
 * * *
 ### Education
-Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present (Supervisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
+Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present (Advisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
 
-M.S. in Economics, Peking University, 2022 (Supervisor: [Prof. Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
+M.S. in Economics, Peking University, 2022 (Advisor: [Prof. Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
 
 B.A. in Economics, Renmin University of China, 2019
 - Exchange Study, University of California, Davis, 2017-2018
@@ -15,8 +15,7 @@ Operations Analytics, Sequential Decision Making, Empirical Bayes, AI-Assisted M
 
 * * *
 ### Publications
-[A Rolling Recruitment Process Under Applicant Stochastic Departures](https://doi.org/10.1287/msom.2024.1456), with Qing Li
-- *Manufacturing & Service Operations Management*, 2026
+Chenyin Gong and Qing Li (2026) [``A Rolling Recruitment Process Under Applicant Stochastic Departures.''](https://doi.org/10.1287/msom.2024.1456) *Manufacturing & Service Operations Management*. 28(1):290-307.
 
 * * *
 ### Working Papers (reverse chronological order of last update)

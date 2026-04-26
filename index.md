@@ -1,12 +1,10 @@
 ## <span class="wave">👋</span> Welcome!
 
-Ph.D. Candidate in Operations Management at HKUST.
-
 * * *
 ### Education
-Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present (Advisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
+Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present (Supervisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
 
-M.S. in Economics, Peking University, 2022 (Advisor: Prof. [Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
+M.S. in Economics, Peking University, 2022 (Supervisor: [Prof. Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
 
 B.A. in Economics, Renmin University of China, 2019
 - Exchange Study, University of California, Davis, 2017-2018

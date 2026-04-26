@@ -1,31 +1,45 @@
----
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
----
 **<font size=5>:wave: Welcome!</font>**
 
-**<font size=4>Education</font>**
+* * *
+### Education
+Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present (Advisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
 
-* Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present (Advisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
- 
-* M.S. in Economics, Peking University, 2022 (Advisor: Prof. [Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
+M.S. in Economics, Peking University, 2022 (Advisor: Prof. [Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
 
-* B.A. in Economics, Renmin University of China, 2019
-  * Exchange Study, University of California, Davis, 2017-2018
+B.A. in Economics, Renmin University of China, 2019
+- Exchange Study, University of California, Davis, 2017-2018
 
-**<font size=4>Research Interests</font>**
+* * *
+### Research Interests
+Operations Analytics, Sequential Decision Making, Empirical Bayes, AI-Assisted Multiple Testing, Supply Chain Management
 
-* Operations Analytics, Sequential Decision Making, Empirical Bayes, AI-Assisted Multiple Testing, Supply Chain Management
+* * *
+### Publications
+[A Rolling Recruitment Process Under Applicant Stochastic Departures](https://doi.org/10.1287/msom.2024.1456), with Qing Li
+- *Manufacturing & Service Operations Management*, 2026
 
-**<font size=4>Contact Information</font>**
+* * *
+### Working Papers (reverse chronological order of last update)
+[The Optimal Selection of a Subset and the Roles of Testing](https://ssrn.com/abstract=5328154), with Lilun Du and Qing Li
+- Major Revision at *Management Science*
 
-* Email: [cgongad@connect.ust.hk](mailto:cgongad@connect.ust.hk)
+[Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He
 
-**<font size=4>Curriculum Vitae</font>**
+* * *
+### Talks/Conferences
+The Optimal Selection of a Subset and the Roles of Testing
+- POMS-HK 2026, Shenzhen, China
+- The 17th International Workshop on Behavioral Operations Management, Chengdu, China
+- Honorable Mention, 2025 POMS International Conference, Danzhou, China
 
-* [CV](https://chenyingong.github.io/assets/CV20260426_Chenyin_Gong.pdf)
+A Rolling Recruitment Process under Applicant Stochastic Departures
+- 2025 INFORMS Annual Meeting, Atlanta, USA
+- INFORMS MSOM 2024 Main Conference, Minneapolis, USA
+
+* * *
+### Teaching
+Teaching Assistant (HKUST)
+- 2026 Spring, ISOM 3760, Logistics Management (UG)
+- 2024 Fall, ISOM 5800, Business Modeling (MBA)
+- 2024 Spring, ISOM 3770, Global Supply Chain Management (UG)
+- 2023 Fall, ISOM 3730, Quality and Process Management (UG)

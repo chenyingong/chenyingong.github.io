@@ -19,20 +19,9 @@ Chenyin Gong and Qing Li (2026) [A Rolling Recruitment Process Under Applicant S
 
 * * *
 ### Working Papers (reverse chronological order of last update)
-[The Optimal Selection of a Subset and the Roles of Testing](https://ssrn.com/abstract=5328154), with Lilun Du and Qing Li. **Major Revision** at *Management Science*
+[The Optimal Selection of a Subset and the Roles of Testing](https://ssrn.com/abstract=5328154), with Lilun Du and Qing Li. *Major Revision* at *Management Science*
 
 [Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He
-
-* * *
-### Talks/Conferences
-The Optimal Selection of a Subset and the Roles of Testing
-- POMS-HK 2026, Shenzhen, China
-- The 17th International Workshop on Behavioral Operations Management, Chengdu, China
-- Honorable Mention, 2025 POMS International Conference, Danzhou, China
-
-A Rolling Recruitment Process under Applicant Stochastic Departures
-- 2025 INFORMS Annual Meeting, Atlanta, USA
-- INFORMS MSOM 2024 Main Conference, Minneapolis, USA
 
 * * *
 ### Teaching

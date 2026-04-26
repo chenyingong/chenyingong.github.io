@@ -13,7 +13,7 @@ layout: home
 
 * Ph.D. Candidate (Hong Kong PhD Fellowship) in Operations Management, HKUST, 2022-Present (Advisor: Prof. [Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
  
-* M.S. in Economics, Peking University, 2022 (Advisor: Prof. [Xianhua Peng](https://english.phbs.pku.edu.cn/2018/fulltime_0831/104.html))
+* M.S. in Economics, Peking University, 2022 (Advisor: Prof. [Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
 
 * B.A. in Economics, Renmin University of China, 2019
   * Exchange Study, University of California, Davis, 2017-2018

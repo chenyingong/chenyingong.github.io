@@ -7,7 +7,7 @@ permalink: /research/
 **<font size=4>Working Papers</font> <font size=3>(reverse chronological order of last update)</font>**
 
 * [The Optimal Selection of a Subset and the Roles of Testing](https://ssrn.com/abstract=5328154), with Lilun Du and Qing Li
-  * Reject & Resubmit at *Management Science*
+  * Major Revision at *Management Science*
 <br />
 <br />
 * [Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He

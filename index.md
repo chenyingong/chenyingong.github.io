@@ -1,4 +1,6 @@
-**<font size=5>:wave: Welcome!</font>**
+## <span class="wave">👋</span> Welcome!
+
+Ph.D. Candidate in Operations Management at HKUST.
 
 * * *
 ### Education

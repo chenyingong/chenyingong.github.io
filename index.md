@@ -24,6 +24,10 @@ Chenyin Gong and Qing Li (2026) [A Rolling Recruitment Process Under Applicant S
 [Reinforcement Learning for Financial Index Tracking](https://ssrn.com/abstract=4532072), with Xianhua Peng and Xue Dong He
 
 * * *
+### Work in Progress
+Two-Stage Weighted Classification with Limited Capacity, with Lilun Du, Qing Li, and Weifen Zhuang.
+
+* * *
 ### Teaching
 Teaching Assistant at HKUST
 - 2026 Spring, ISOM 3760, Logistics Management (UG)

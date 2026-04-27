@@ -25,7 +25,9 @@ Chenyin Gong and Qing Li (2026) [A Rolling Recruitment Process Under Applicant S
 
 * * *
 ### Work in Progress
-Two-Stage Weighted Classification with Limited Capacity, with Lilun Du, Qing Li, and Weifen Zhuang.
+Two-Stage Weighted Classification with Limited Capacity, with Lilun Du, Qing Li, and Weifen Zhuang
+
+Adaptive Compound Decision Rules for Sequential FDR Control, with Lilun Du and Qing Li
 
 * * *
 ### Teaching

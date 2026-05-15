@@ -2,9 +2,9 @@
 
 * * *
 ### Education
-Ph.D. Candidate in Operations Management, HKUST, 2022-Present (Advisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
+Ph.D. Candidate in Operations Management, HKUST, 2022-2026 (expected) (Thesis Supervisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
 
-M.S. in Economics, Peking University, 2022 (Advisor: [Prof. Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
+M.S. in Economics, Peking University, 2022 (Thesis Supervisor: [Prof. Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
 
 B.A. in Economics, Renmin University of China, 2019
 - Exchange Study, University of California, Davis, 2017-2018
@@ -25,7 +25,7 @@ Chenyin Gong and Qing Li (2026) [A Rolling Recruitment Process Under Applicant S
 
 * * *
 ### Work in Progress
-Two-Stage Weighted Classification with Limited Capacity, with Lilun Du, Qing Li, and Weifen Zhuang
+Two-Stage Weighted Classification with Limited Capacity, with Lilun Du, Qing Li, and Weifen Zhuang (Manuscript in Preparation)
 
 Adaptive Compound Decision Rules for Sequential FDR Control, with Lilun Du and Qing Li
 

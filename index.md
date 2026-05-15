@@ -2,7 +2,7 @@
 
 * * *
 ### Education
-Ph.D. Candidate in Operations Management, The Hong Kong University of Science and Technology, 2022-2026 (expected) (Supervisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
+Ph.D. Candidate in Operations Management, The Hong Kong University of Science and Technology, 2026 (expected) (Supervisor: [Prof. Qing Li](https://isom.hkust.edu.hk/faculty-and-staff/directory/imqli))
 
 M.S. in Economics, Peking University, 2022 (Supervisor: [Prof. Xianhua Peng](https://www.phbs.pku.edu.cn/info/1291/101641.htm))
 
